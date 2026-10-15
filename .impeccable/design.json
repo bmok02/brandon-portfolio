@@ -1,0 +1,1072 @@
+{
+  "schemaVersion": 2,
+  "generatedAt": "2026-10-15T08:45:29+00:00",
+  "title": "Design System: Brandon Mok — clean & classic",
+  "extensions": {
+    "colorMeta": {
+      "accent": {
+        "role": "primary",
+        "displayName": "Ink-Blue Accent",
+        "canonical": "oklch(46.1% 0.198 266)",
+        "tonalRamp": [
+          "#010036",
+          "#050078",
+          "#0f29a5",
+          "#284ecb",
+          "#4472f1",
+          "#749af8",
+          "#aac4fc",
+          "#e8effe"
+        ]
+      },
+      "paper": {
+        "role": "neutral",
+        "displayName": "Warm Paper",
+        "canonical": "oklch(97.3% 0.003 106)",
+        "tonalRamp": [
+          "#0b0b0a",
+          "#242423",
+          "#40403e",
+          "#5e5e5c",
+          "#7d7d7b",
+          "#9e9e9d",
+          "#c4c4c2",
+          "#eeeeec"
+        ]
+      },
+      "surface": {
+        "role": "neutral",
+        "displayName": "Plain Surface",
+        "canonical": "oklch(100.0% 0.000 90)",
+        "tonalRamp": [
+          "#0b0b0b",
+          "#242424",
+          "#404040",
+          "#5d5d5d",
+          "#7d7d7d",
+          "#9e9e9e",
+          "#c4c4c4",
+          "#eeeeee"
+        ]
+      },
+      "text": {
+        "role": "neutral",
+        "displayName": "Ink Text",
+        "canonical": "oklch(22.2% 0.002 107)",
+        "tonalRamp": [
+          "#0b0b0a",
+          "#242423",
+          "#40403f",
+          "#5e5e5c",
+          "#7d7d7c",
+          "#9e9e9d",
+          "#c4c4c3",
+          "#eeeeed"
+        ]
+      },
+      "muted": {
+        "role": "neutral",
+        "displayName": "Muted Grey",
+        "canonical": "oklch(52.3% 0.006 107)",
+        "tonalRamp": [
+          "#0b0b08",
+          "#242421",
+          "#40403c",
+          "#5e5e5a",
+          "#7d7d79",
+          "#9f9f9a",
+          "#c4c4c0",
+          "#efefea"
+        ]
+      },
+      "faint": {
+        "role": "neutral",
+        "displayName": "Faint Grey",
+        "canonical": "oklch(54.0% 0.008 107)",
+        "tonalRamp": [
+          "#0b0b08",
+          "#242420",
+          "#40403b",
+          "#5e5e59",
+          "#7e7e78",
+          "#9f9f99",
+          "#c4c4bf",
+          "#efefe9"
+        ]
+      },
+      "line": {
+        "role": "neutral",
+        "displayName": "Hairline",
+        "canonical": "oklch(91.8% 0.005 107)",
+        "tonalRamp": [
+          "#0b0b09",
+          "#242421",
+          "#40403d",
+          "#5e5e5a",
+          "#7d7d7a",
+          "#9f9f9b",
+          "#c4c4c0",
+          "#efefeb"
+        ]
+      },
+      "accent-dark": {
+        "role": "primary",
+        "displayName": "Ink-Blue Accent (dark)",
+        "canonical": "oklch(74.8% 0.129 271)",
+        "tonalRamp": [
+          "#040036",
+          "#111661",
+          "#283683",
+          "#4356a6",
+          "#6177ca",
+          "#8199ef",
+          "#afc2fc",
+          "#e9eefe"
+        ]
+      },
+      "paper-dark": {
+        "role": "neutral",
+        "displayName": "Soft Charcoal",
+        "canonical": "oklch(19.1% 0.000 90)",
+        "tonalRamp": [
+          "#0b0b0b",
+          "#242424",
+          "#404040",
+          "#5d5d5d",
+          "#7d7d7d",
+          "#9e9e9e",
+          "#c4c4c4",
+          "#eeeeee"
+        ]
+      },
+      "surface-dark": {
+        "role": "neutral",
+        "displayName": "Plain Surface (dark)",
+        "canonical": "oklch(22.6% 0.000 90)",
+        "tonalRamp": [
+          "#0b0b0b",
+          "#242424",
+          "#404040",
+          "#5d5d5d",
+          "#7d7d7d",
+          "#9e9e9e",
+          "#c4c4c4",
+          "#eeeeee"
+        ]
+      },
+      "text-dark": {
+        "role": "neutral",
+        "displayName": "Ink Text (dark)",
+        "canonical": "oklch(94.3% 0.003 106)",
+        "tonalRamp": [
+          "#0b0b0a",
+          "#242423",
+          "#40403e",
+          "#5e5e5c",
+          "#7d7d7b",
+          "#9e9e9d",
+          "#c4c4c2",
+          "#eeeeec"
+        ]
+      },
+      "muted-dark": {
+        "role": "neutral",
+        "displayName": "Muted Grey (dark)",
+        "canonical": "oklch(71.4% 0.007 107)",
+        "tonalRamp": [
+          "#0b0b08",
+          "#242420",
+          "#40403c",
+          "#5e5e59",
+          "#7e7e79",
+          "#9f9f9a",
+          "#c4c4bf",
+          "#efefe9"
+        ]
+      },
+      "faint-dark": {
+        "role": "neutral",
+        "displayName": "Faint Grey (dark)",
+        "canonical": "oklch(63.2% 0.009 107)",
+        "tonalRamp": [
+          "#0b0b07",
+          "#24241f",
+          "#40403b",
+          "#5e5e58",
+          "#7e7e78",
+          "#9f9f99",
+          "#c4c4be",
+          "#efefe8"
+        ]
+      },
+      "line-dark": {
+        "role": "neutral",
+        "displayName": "Hairline (dark)",
+        "canonical": "oklch(28.4% 0.004 107)",
+        "tonalRamp": [
+          "#0b0b0a",
+          "#242422",
+          "#40403e",
+          "#5e5e5b",
+          "#7d7d7b",
+          "#9e9e9c",
+          "#c4c4c2",
+          "#efefec"
+        ]
+      },
+      "on-accent": {
+        "role": "primary",
+        "displayName": "On Accent",
+        "canonical": "oklch(100.0% 0.000 90)",
+        "tonalRamp": [
+          "#262626",
+          "#3b3b3b",
+          "#525252",
+          "#6b6b6b",
+          "#858585",
+          "#a1a1a1",
+          "#c4c4c4",
+          "#ffffff"
+        ]
+      },
+      "field-working": {
+        "role": "secondary",
+        "displayName": "Working Field",
+        "canonical": "oklch(92.8% 0.028 268)",
+        "tonalRamp": [
+          "#060a17",
+          "#1f2533",
+          "#3b4252",
+          "#5a6172",
+          "#7b8294",
+          "#9da5b8",
+          "#c1c9dc",
+          "#e8eeff"
+        ]
+      },
+      "mark-working": {
+        "role": "secondary",
+        "displayName": "Working Mark",
+        "canonical": "oklch(46.1% 0.198 266)",
+        "tonalRamp": [
+          "#010035",
+          "#050179",
+          "#112ca8",
+          "#2b52cf",
+          "#4977f7",
+          "#7ca2fb",
+          "#b1c9fd",
+          "#e7efff"
+        ]
+      },
+      "field-building": {
+        "role": "secondary",
+        "displayName": "Building Field (Apricot)",
+        "canonical": "oklch(93.6% 0.031 57)",
+        "tonalRamp": [
+          "#150701",
+          "#312116",
+          "#4f3e32",
+          "#705d50",
+          "#927e70",
+          "#b5a192",
+          "#dac4b6",
+          "#ffeadc"
+        ]
+      },
+      "mark-building": {
+        "role": "secondary",
+        "displayName": "Building Mark (Orange)",
+        "canonical": "oklch(60.7% 0.146 44)",
+        "tonalRamp": [
+          "#1a0400",
+          "#411501",
+          "#6e2a03",
+          "#9f4009",
+          "#c8602f",
+          "#ef8354",
+          "#fdb698",
+          "#feeae1"
+        ]
+      },
+      "field-community": {
+        "role": "secondary",
+        "displayName": "Community Field (Mint)",
+        "canonical": "oklch(93.2% 0.025 157)",
+        "tonalRamp": [
+          "#030e07",
+          "#1b2920",
+          "#37463d",
+          "#56665c",
+          "#77877c",
+          "#99aa9f",
+          "#bdcec3",
+          "#e2f4e8"
+        ]
+      },
+      "mark-community": {
+        "role": "secondary",
+        "displayName": "Community Mark (Green)",
+        "canonical": "oklch(53.5% 0.105 156)",
+        "tonalRamp": [
+          "#001005",
+          "#012e18",
+          "#04502d",
+          "#207247",
+          "#479567",
+          "#6bb989",
+          "#8fdead",
+          "#c5ffd9"
+        ]
+      },
+      "field-working-dark": {
+        "role": "secondary",
+        "displayName": "Working Field, dark",
+        "canonical": "oklch(26.0% 0.041 269)",
+        "tonalRamp": [
+          "#05091c",
+          "#1d2439",
+          "#394158",
+          "#586179",
+          "#78829c",
+          "#9ba4c0",
+          "#bec9e5",
+          "#e8eeff"
+        ]
+      },
+      "mark-working-dark": {
+        "role": "secondary",
+        "displayName": "Working Mark, dark",
+        "canonical": "oklch(74.8% 0.129 271)",
+        "tonalRamp": [
+          "#040132",
+          "#121762",
+          "#2a3985",
+          "#475aaa",
+          "#667ccf",
+          "#87a0f6",
+          "#b6c7fc",
+          "#e9eefe"
+        ]
+      },
+      "field-building-dark": {
+        "role": "secondary",
+        "displayName": "Building Field, dark",
+        "canonical": "oklch(27.0% 0.027 54)",
+        "tonalRamp": [
+          "#140802",
+          "#302219",
+          "#4e3e35",
+          "#6e5d53",
+          "#907e74",
+          "#b3a196",
+          "#d8c5b9",
+          "#feeade"
+        ]
+      },
+      "mark-building-dark": {
+        "role": "secondary",
+        "displayName": "Building Mark, dark",
+        "canonical": "oklch(77.7% 0.112 51)",
+        "tonalRamp": [
+          "#180600",
+          "#3e1901",
+          "#692f04",
+          "#924b1b",
+          "#b76d40",
+          "#dd9062",
+          "#ffb68d",
+          "#ffeade"
+        ]
+      },
+      "field-community-dark": {
+        "role": "secondary",
+        "displayName": "Community Field, dark",
+        "canonical": "oklch(27.0% 0.029 158)",
+        "tonalRamp": [
+          "#020f07",
+          "#192920",
+          "#35473c",
+          "#54675b",
+          "#74887c",
+          "#96ab9e",
+          "#bacfc2",
+          "#dff5e7"
+        ]
+      },
+      "mark-community-dark": {
+        "role": "secondary",
+        "displayName": "Community Mark, dark",
+        "canonical": "oklch(79.3% 0.105 157)",
+        "tonalRamp": [
+          "#000f06",
+          "#002e18",
+          "#084f2f",
+          "#1c7349",
+          "#449569",
+          "#68b98b",
+          "#8ddeae",
+          "#c4ffdb"
+        ]
+      },
+      "ink": {
+        "role": "object",
+        "displayName": "Ink (object)",
+        "canonical": "oklch(28.5% 0.040 49)",
+        "tonalRamp": [
+          "#180600",
+          "#341e12",
+          "#513a2d",
+          "#71574a",
+          "#917769",
+          "#b49889",
+          "#dabdae",
+          "#feeae0"
+        ]
+      },
+      "porcelain": {
+        "role": "object",
+        "displayName": "Porcelain (object)",
+        "canonical": "oklch(95.6% 0.011 129)",
+        "tonalRamp": [
+          "#0a0c07",
+          "#22251f",
+          "#3e413b",
+          "#5c5f58",
+          "#7b7f78",
+          "#9ca098",
+          "#c2c6be",
+          "#ecf0e8"
+        ]
+      },
+      "porcelain-lid": {
+        "role": "object",
+        "displayName": "Porcelain Lid (object)",
+        "canonical": "oklch(93.6% 0.014 248)",
+        "tonalRamp": [
+          "#070c11",
+          "#1f252b",
+          "#3a4147",
+          "#585e65",
+          "#777e85",
+          "#989fa7",
+          "#bdc5cd",
+          "#e8f0f8"
+        ]
+      },
+      "cobalt-brush": {
+        "role": "object",
+        "displayName": "Cobalt Brush (object)",
+        "canonical": "oklch(46.5% 0.152 263)",
+        "tonalRamp": [
+          "#000039",
+          "#001864",
+          "#0e368e",
+          "#2c58b2",
+          "#4b79d7",
+          "#6a9cfc",
+          "#a5c4ff",
+          "#e6effe"
+        ]
+      },
+      "liquor": {
+        "role": "object",
+        "displayName": "Liquor (object)",
+        "canonical": "oklch(68.1% 0.130 72)",
+        "tonalRamp": [
+          "#160700",
+          "#341f00",
+          "#583804",
+          "#7e5413",
+          "#a7701b",
+          "#cf9033",
+          "#f7b65d",
+          "#feebd4"
+        ]
+      },
+      "broth": {
+        "role": "object",
+        "displayName": "Broth (object)",
+        "canonical": "oklch(73.6% 0.137 67)",
+        "tonalRamp": [
+          "#180600",
+          "#361d00",
+          "#5b3601",
+          "#82510e",
+          "#ad6d15",
+          "#d68c2e",
+          "#ffb25a",
+          "#ffebd6"
+        ]
+      },
+      "noodle": {
+        "role": "object",
+        "displayName": "Noodle (object)",
+        "canonical": "oklch(90.9% 0.084 90)",
+        "tonalRamp": [
+          "#130900",
+          "#2f2200",
+          "#503d00",
+          "#705b1c",
+          "#917b3e",
+          "#b39c5f",
+          "#dac284",
+          "#ffedc0"
+        ]
+      },
+      "leaf": {
+        "role": "object",
+        "displayName": "Leaf (object)",
+        "canonical": "oklch(60.8% 0.131 136)",
+        "tonalRamp": [
+          "#001000",
+          "#102c00",
+          "#224b06",
+          "#376d15",
+          "#578e3a",
+          "#77b15c",
+          "#9cd881",
+          "#d2febe"
+        ]
+      },
+      "wood": {
+        "role": "object",
+        "displayName": "Wood (object)",
+        "canonical": "oklch(63.9% 0.102 64)",
+        "tonalRamp": [
+          "#180600",
+          "#381c00",
+          "#5d3501",
+          "#854f0f",
+          "#a76f36",
+          "#cb9058",
+          "#f3b67d",
+          "#feebd9"
+        ]
+      },
+      "wood-light": {
+        "role": "object",
+        "displayName": "Wood Light (object)",
+        "canonical": "oklch(75.7% 0.095 71)",
+        "tonalRamp": [
+          "#160700",
+          "#351f00",
+          "#593804",
+          "#7f5313",
+          "#a07338",
+          "#c4945a",
+          "#ebba7f",
+          "#ffebd4"
+        ]
+      },
+      "jade": {
+        "role": "object",
+        "displayName": "Jade (object)",
+        "canonical": "oklch(61.5% 0.102 166)",
+        "tonalRamp": [
+          "#001007",
+          "#002c1e",
+          "#054c36",
+          "#176e51",
+          "#33906f",
+          "#59b38f",
+          "#80d9b4",
+          "#c5fee4"
+        ]
+      },
+      "jade-dark": {
+        "role": "object",
+        "displayName": "Jade Dark (object)",
+        "canonical": "oklch(50.0% 0.083 166)",
+        "tonalRamp": [
+          "#001007",
+          "#002c1e",
+          "#054c36",
+          "#246c53",
+          "#488d72",
+          "#6aaf92",
+          "#8fd6b8",
+          "#c5fee4"
+        ]
+      },
+      "jade-light": {
+        "role": "object",
+        "displayName": "Jade Light (object)",
+        "canonical": "oklch(78.0% 0.077 159)",
+        "tonalRamp": [
+          "#001005",
+          "#002d19",
+          "#0d4c31",
+          "#326b4e",
+          "#528c6d",
+          "#73ae8d",
+          "#99d4b3",
+          "#c7fede"
+        ]
+      },
+      "coin": {
+        "role": "object",
+        "displayName": "Coin (object)",
+        "canonical": "oklch(80.7% 0.146 87)",
+        "tonalRamp": [
+          "#130900",
+          "#302200",
+          "#513c00",
+          "#755907",
+          "#9b780a",
+          "#c19828",
+          "#ecbd41",
+          "#ffedc4"
+        ]
+      },
+      "kraft": {
+        "role": "object",
+        "displayName": "Kraft (object)",
+        "canonical": "oklch(71.3% 0.087 73)",
+        "tonalRamp": [
+          "#160700",
+          "#341f00",
+          "#583801",
+          "#7b551d",
+          "#9d753f",
+          "#c09660",
+          "#e7bc85",
+          "#ffebd4"
+        ]
+      },
+      "pencil": {
+        "role": "object",
+        "displayName": "Pencil (object)",
+        "canonical": "oklch(39.1% 0.011 56)",
+        "tonalRamp": [
+          "#0f0a07",
+          "#28231f",
+          "#443e3a",
+          "#635c58",
+          "#827c77",
+          "#a49d98",
+          "#cac2be",
+          "#f4ede8"
+        ]
+      },
+      "pencil-yellow": {
+        "role": "object",
+        "displayName": "Pencil Yellow (object)",
+        "canonical": "oklch(83.4% 0.158 89)",
+        "tonalRamp": [
+          "#130900",
+          "#2f2200",
+          "#503d00",
+          "#735a0c",
+          "#997912",
+          "#c29803",
+          "#edbd28",
+          "#fdedc5"
+        ]
+      },
+      "note-blue": {
+        "role": "object",
+        "displayName": "Note Blue (object)",
+        "canonical": "oklch(44.6% 0.135 263)",
+        "tonalRamp": [
+          "#000038",
+          "#001864",
+          "#173986",
+          "#3459a9",
+          "#527acd",
+          "#729cf2",
+          "#a6c4fe",
+          "#e7effe"
+        ]
+      },
+      "teal": {
+        "role": "object",
+        "displayName": "Teal (object)",
+        "canonical": "oklch(53.6% 0.087 203)",
+        "tonalRamp": [
+          "#000f11",
+          "#002a2e",
+          "#00494f",
+          "#0d6a71",
+          "#2c8c94",
+          "#53afb7",
+          "#7bd5dd",
+          "#c7f9fe"
+        ]
+      },
+      "napkin": {
+        "role": "object",
+        "displayName": "Napkin (object)",
+        "canonical": "oklch(97.9% 0.011 90)",
+        "tonalRamp": [
+          "#0d0b06",
+          "#26241e",
+          "#424039",
+          "#605d57",
+          "#807d76",
+          "#a19e97",
+          "#c7c4bc",
+          "#f1eee6"
+        ]
+      },
+      "kopi-stain": {
+        "role": "object",
+        "displayName": "Kopi Stain (object)",
+        "canonical": "oklch(51.2% 0.083 58)",
+        "tonalRamp": [
+          "#1b0400",
+          "#391b01",
+          "#5f3306",
+          "#80512a",
+          "#a27149",
+          "#c6926a",
+          "#edb78e",
+          "#feeadc"
+        ]
+      },
+      "krama": {
+        "role": "object",
+        "displayName": "Krama (object)",
+        "canonical": "oklch(49.2% 0.142 261)",
+        "tonalRamp": [
+          "#00003a",
+          "#001d5a",
+          "#0c3989",
+          "#2c5aac",
+          "#4b7bd1",
+          "#6b9df6",
+          "#a6c5fb",
+          "#e6efff"
+        ]
+      },
+      "riel": {
+        "role": "object",
+        "displayName": "Riel (object)",
+        "canonical": "oklch(58.2% 0.098 310)",
+        "tonalRamp": [
+          "#160025",
+          "#321146",
+          "#502e65",
+          "#6f4d86",
+          "#8f6ca8",
+          "#b18dcc",
+          "#d8b3f4",
+          "#f5e9fe"
+        ]
+      },
+      "navy": {
+        "role": "object",
+        "displayName": "Navy (object)",
+        "canonical": "oklch(34.2% 0.075 264)",
+        "tonalRamp": [
+          "#00062a",
+          "#102248",
+          "#2b3e67",
+          "#485d88",
+          "#667daa",
+          "#879ece",
+          "#abc4f5",
+          "#e6efff"
+        ]
+      },
+      "stamp-ochre": {
+        "role": "object",
+        "displayName": "Stamp Ochre (object)",
+        "canonical": "oklch(59.2% 0.136 59)",
+        "tonalRamp": [
+          "#1a0400",
+          "#3a1a00",
+          "#613100",
+          "#8a4b08",
+          "#b7650d",
+          "#dc873d",
+          "#fab27a",
+          "#feeadc"
+        ]
+      }
+    },
+    "typographyMeta": {
+      "display": {
+        "displayName": "Display",
+        "purpose": "Home name and case-study title; one per page."
+      },
+      "lead": {
+        "displayName": "Lead",
+        "purpose": "Intro paragraphs; case-study lead at 1.15rem muted."
+      },
+      "quote": {
+        "displayName": "Quote",
+        "purpose": "The single pull quote."
+      },
+      "closer": {
+        "displayName": "Closer",
+        "purpose": "The contact lead on the blue field."
+      },
+      "group": {
+        "displayName": "Group",
+        "purpose": "Work group headings, with colour square and faint count."
+      },
+      "title": {
+        "displayName": "Title",
+        "purpose": "Block titles, tile titles, case-study section heads, place names; sentence case."
+      },
+      "body": {
+        "displayName": "Body",
+        "purpose": "Case-study prose."
+      },
+      "label": {
+        "displayName": "Label",
+        "purpose": "Nav, facts, link rows, meta strip."
+      },
+      "tile-line": {
+        "displayName": "Tile Line",
+        "purpose": "The muted one-liner under a tile title."
+      },
+      "tag": {
+        "displayName": "Tag",
+        "purpose": "White pill name tag on a still-life object."
+      },
+      "caption": {
+        "displayName": "Caption",
+        "purpose": "Years, dates, footer; tabular numerals."
+      },
+      "hand": {
+        "displayName": "Hand",
+        "purpose": "Handwriting inside drawn SVG objects only; never page text."
+      }
+    },
+    "shadows": [
+      {
+        "name": "still-object",
+        "value": "drop-shadow(0 8px 10px rgba(8, 20, 70, 0.28))",
+        "purpose": "Drawn objects resting on the blue still-life field."
+      },
+      {
+        "name": "still-object-hover",
+        "value": "drop-shadow(0 16px 16px rgba(8, 20, 70, 0.3))",
+        "purpose": "A still-life object lifted on hover/focus."
+      },
+      {
+        "name": "tile-object",
+        "value": "drop-shadow(0 10px 12px rgba(30, 25, 20, 0.16))",
+        "purpose": "Objects on tile fields."
+      },
+      {
+        "name": "study-object",
+        "value": "drop-shadow(0 14px 16px rgba(30, 25, 20, 0.18))",
+        "purpose": "The object on the case-study head field."
+      }
+    ],
+    "motion": [
+      {
+        "name": "ease-out",
+        "value": "cubic-bezier(0.16, 1, 0.3, 1)",
+        "purpose": "Settle, object lifts, email pill and the view-transition morph."
+      },
+      {
+        "name": "settle",
+        "value": "0.7s ease-out both; delay i*65ms + 120ms; from translateY(-36px) rotate(-14deg) scale(0.92), opacity 0",
+        "purpose": "The one authored moment: still-life objects drop onto the field and settle on load."
+      },
+      {
+        "name": "still-lift",
+        "value": "transform 0.4s; translateY(-8%) rotate(-7deg) scale(1.08); tag opacity 0.2s, translate 0.3s",
+        "purpose": "Still-life object hover/focus, with white name tag."
+      },
+      {
+        "name": "tile-lift",
+        "value": "transform 0.45s; translateY(-6px) rotate(-6deg) scale(1.08)",
+        "purpose": "Tile object hover/focus."
+      },
+      {
+        "name": "field-tint",
+        "value": "background-color 0.3s; color-mix(in srgb, field 82%, mark)",
+        "purpose": "Tile field on hover."
+      },
+      {
+        "name": "link-colour",
+        "value": "color 0.15s, text-decoration-color 0.15s",
+        "purpose": "Link hover."
+      },
+      {
+        "name": "email-lift",
+        "value": "transform 0.25s; translateY(-2px)",
+        "purpose": "Contact email pill hover."
+      },
+      {
+        "name": "steam",
+        "value": "2.2s ease-out infinite",
+        "purpose": "Steam rising from cup objects while hovered (tile or still life)."
+      },
+      {
+        "name": "morph",
+        "value": "420ms cubic-bezier(0.16, 1, 0.3, 1)",
+        "purpose": "Shared-element view transition from tile object to case-study object."
+      },
+      {
+        "name": "reduced-motion",
+        "value": "animation: none; transition-duration: 0.01ms",
+        "purpose": "All motion, including settle and morph, off under prefers-reduced-motion."
+      }
+    ],
+    "breakpoints": [
+      {
+        "name": "phone",
+        "value": "560px"
+      },
+      {
+        "name": "tablet",
+        "value": "900px"
+      },
+      {
+        "name": "reading",
+        "value": "680px"
+      },
+      {
+        "name": "page",
+        "value": "1120px"
+      }
+    ]
+  },
+  "components": [
+    {
+      "name": "Navigation",
+      "kind": "nav",
+      "refersTo": "nav",
+      "description": "Name at left, three muted anchor links at right; no bar, no background.",
+      "html": "<header class=\"ds-nav\"><a class=\"ds-nav-name\" href=\"#\">Brandon Mok</a><nav class=\"ds-nav-links\"><a href=\"#\">Work</a><a href=\"#\">Places</a><a href=\"#\">Contact</a></nav></header>",
+      "css": ".ds-nav{font-family: var(--font-sans, Inter, system-ui, sans-serif);display:flex;align-items:center;justify-content:space-between;gap:16px;padding:28px 0;font-size:0.92rem;color:var(--text,#1b1b1a);} .ds-nav-name{font-weight:600;color:inherit;text-decoration:none;} .ds-nav-links{display:flex;gap:20px;} .ds-nav-links a{color:var(--muted,#6a6a66);text-decoration:none;transition:color .15s;} .ds-nav-links a:hover{color:var(--text,#1b1b1a);} .ds-nav a:focus-visible{outline:2px solid var(--accent,#2348c4);outline-offset:3px;border-radius:4px;}"
+    },
+    {
+      "name": "Text Link",
+      "kind": "custom",
+      "refersTo": "text-link",
+      "description": "Ink text with a hairline underline; turns accent on hover.",
+      "html": "<p class=\"ds-p\">Read the <a class=\"ds-link\" href=\"#\">résumé</a> or find me on <a class=\"ds-link\" href=\"#\">LinkedIn</a>.</p>",
+      "css": ".ds-p{font-family: var(--font-sans, Inter, system-ui, sans-serif);font-size:1rem;line-height:1.65;color:var(--text,#1b1b1a);margin:0;} .ds-link{color:inherit;text-decoration:underline;text-decoration-color:var(--line,#e4e4e0);text-decoration-thickness:1px;text-underline-offset:0.25em;transition:color .15s,text-decoration-color .15s;} .ds-link:hover{color:var(--accent,#2348c4);text-decoration-color:currentColor;} .ds-link:focus-visible{outline:2px solid var(--accent,#2348c4);outline-offset:3px;border-radius:4px;}"
+    },
+    {
+      "name": "Still Life",
+      "kind": "custom",
+      "refersTo": "still-life",
+      "description": "Hero signature: square blue dotted field with hand-placed objects; each lifts and shows a white name tag on hover/focus, and settles in on load.",
+      "html": "<div class=\"ds-still\"><a class=\"ds-still-link\" href=\"#\" style=\"left:18%;top:22%;width:26%;rotate:-6deg\"><svg viewBox=\"0 0 220 220\" aria-hidden=\"true\"><circle cx=\"110\" cy=\"118\" r=\"94\" fill=\"#eef2ea\" stroke=\"#3a2418\" stroke-width=\"2.6\"/><circle cx=\"110\" cy=\"118\" r=\"52\" fill=\"#c98a2c\" stroke=\"#3a2418\" stroke-width=\"1.6\"/></svg><span class=\"ds-still-tag\">Tea Companion</span></a><a class=\"ds-still-link\" href=\"#\" style=\"left:56%;top:52%;width:30%;rotate:7deg\"><svg viewBox=\"0 0 220 220\" aria-hidden=\"true\"><circle cx=\"110\" cy=\"118\" r=\"94\" fill=\"#eef2ea\" stroke=\"#3a2418\" stroke-width=\"2.6\"/><circle cx=\"110\" cy=\"118\" r=\"52\" fill=\"#c98a2c\" stroke=\"#3a2418\" stroke-width=\"1.6\"/></svg><span class=\"ds-still-tag\">GovTech</span></a></div>",
+      "css": ".ds-still{position:relative;aspect-ratio:1;max-width:360px;border-radius:28px;background:radial-gradient(rgba(255,255,255,0.14) 1px, transparent 1.4px) 0 0 / 22px 22px, var(--accent,#2348c4);} .ds-still-link{position:absolute;display:block;border-radius:12px;animation:ds-settle 0.7s cubic-bezier(0.16,1,0.3,1) both;} .ds-still-link svg{display:block;width:100%;height:auto;filter:drop-shadow(0 8px 10px rgba(8,20,70,0.28));transition:transform 0.4s cubic-bezier(0.16,1,0.3,1),filter 0.4s cubic-bezier(0.16,1,0.3,1);} .ds-still-link:hover svg,.ds-still-link:focus-visible svg{transform:translateY(-8%) rotate(-7deg) scale(1.08);filter:drop-shadow(0 16px 16px rgba(8,20,70,0.3));} .ds-still-tag{font-family: var(--font-sans, Inter, system-ui, sans-serif);position:absolute;left:50%;top:100%;translate:-50% 4px;padding:3px 10px;border-radius:999px;background:#fff;color:#1b1b1a;font-size:0.78rem;font-weight:600;white-space:nowrap;opacity:0;transition:opacity 0.2s,translate 0.3s cubic-bezier(0.16,1,0.3,1);pointer-events:none;} .ds-still-link:hover .ds-still-tag,.ds-still-link:focus-visible .ds-still-tag{opacity:1;translate:-50% 10px;} .ds-still-link:focus-visible{outline:2px solid #fff;outline-offset:6px;} @keyframes ds-settle{from{opacity:0;transform:translateY(-36px) rotate(-14deg) scale(0.92);}60%{opacity:1;}} @media (prefers-reduced-motion: reduce){.ds-still-link{animation:none;}}"
+    },
+    {
+      "name": "Work Tile",
+      "kind": "card",
+      "refersTo": "tile-field-building",
+      "description": "Work signature: section-colour field with the object large, then title + year and one muted line. Field tints toward the mark on hover; title turns accent; object lifts.",
+      "html": "<h3 class=\"ds-group\">Building <span>4</span></h3><a class=\"ds-tile\" href=\"#\"><span class=\"ds-tile-field\"><span class=\"ds-tile-obj\"><svg viewBox=\"0 0 220 220\" aria-hidden=\"true\"><circle cx=\"110\" cy=\"118\" r=\"94\" fill=\"#eef2ea\" stroke=\"#3a2418\" stroke-width=\"2.6\"/><circle cx=\"110\" cy=\"118\" r=\"52\" fill=\"#c98a2c\" stroke=\"#3a2418\" stroke-width=\"1.6\"/></svg></span></span><span class=\"ds-tile-head\"><span class=\"ds-tile-title\">Tea Companion</span><span class=\"ds-tile-year\">2025</span></span><span class=\"ds-tile-line\">A brewing guide that asks about your teaware first.</span></a>",
+      "css": ".ds-group{font-family: var(--font-sans, Inter, system-ui, sans-serif);display:flex;align-items:center;gap:10px;margin:0 0 18px;font-size:1.35rem;font-weight:600;letter-spacing:-0.02em;color:var(--text,#1b1b1a);} .ds-group::before{content:'';width:12px;height:12px;border-radius:3px;background:#c8602f;} .ds-group span{font-size:0.9rem;font-weight:500;color:var(--faint,#64645f);} .ds-tile{font-family: var(--font-sans, Inter, system-ui, sans-serif);--field:#fbe5d6;--mark:#c8602f;display:grid;gap:6px;max-width:320px;text-decoration:none;color:var(--text,#1b1b1a);} .ds-tile-field{display:grid;place-items:center;aspect-ratio:4/3;margin-bottom:8px;border-radius:20px;background:var(--field);transition:background-color 0.3s;} .ds-tile:hover .ds-tile-field{background:color-mix(in srgb,var(--field) 82%,var(--mark));} .ds-tile-obj{display:block;width:44%;} .ds-tile-obj svg{display:block;width:100%;height:auto;filter:drop-shadow(0 10px 12px rgba(30,25,20,0.16));transition:transform 0.45s cubic-bezier(0.16,1,0.3,1);} .ds-tile:hover .ds-tile-obj svg,.ds-tile:focus-visible .ds-tile-obj svg{transform:translateY(-6px) rotate(-6deg) scale(1.08);} .ds-tile-head{display:flex;align-items:baseline;justify-content:space-between;gap:12px;} .ds-tile-title{font-weight:600;font-size:1.05rem;} .ds-tile:hover .ds-tile-title{color:var(--accent,#2348c4);} .ds-tile-year{font-size:0.85rem;color:var(--faint,#64645f);font-variant-numeric:tabular-nums;} .ds-tile-line{font-size:0.93rem;line-height:1.5;color:var(--muted,#6a6a66);} .ds-tile:focus-visible{outline:2px solid var(--accent,#2348c4);outline-offset:6px;border-radius:20px;}"
+    },
+    {
+      "name": "Contact",
+      "kind": "custom",
+      "refersTo": "contact",
+      "description": "Page closer on the same blue dotted field as the hero: white closer line and a white pill email button in accent text.",
+      "html": "<section class=\"ds-contact\"><h2>Contact</h2><p class=\"ds-contact-lead\">If you’re building something meaningful, especially with AI, I’d love to hear about it.</p><a class=\"ds-email\" href=\"#\">hello@example.com <svg viewBox=\"0 0 34 18\" width=\"1.4em\" height=\"0.75em\" aria-hidden=\"true\"><path d=\"M2 10 C 10 7, 20 11, 30 9 M22 3 C 25 6, 28 8, 31 9 C 28 11, 25 13, 23 16\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2.4\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/></svg></a></section>",
+      "css": ".ds-contact{font-family: var(--font-sans, Inter, system-ui, sans-serif);padding:clamp(32px,6vw,64px);border-radius:28px;color:#fff;background:radial-gradient(rgba(255,255,255,0.14) 1px, transparent 1.4px) 0 0 / 22px 22px, var(--accent,#2348c4);} .ds-contact h2{margin:0 0 8px;font-size:1rem;font-weight:600;color:rgba(255,255,255,0.78);} .ds-contact-lead{margin:0;font-size:clamp(1.4rem,3vw,2rem);font-weight:600;letter-spacing:-0.02em;line-height:1.25;max-width:26ch;} .ds-email{display:inline-flex;align-items:center;gap:10px;margin-top:24px;padding:12px 20px;border-radius:999px;background:#fff;color:var(--accent,#2348c4);font-size:1.05rem;font-weight:600;text-decoration:none;transition:transform 0.25s cubic-bezier(0.16,1,0.3,1);} .ds-email:hover{transform:translateY(-2px);text-decoration:underline;} .ds-email:focus-visible{outline:2px solid #fff;outline-offset:3px;}"
+    },
+    {
+      "name": "Meta Strip",
+      "kind": "custom",
+      "refersTo": "meta-strip",
+      "description": "Case-study Role / When / Where between two hairlines; faint labels, ink values.",
+      "html": "<dl class=\"ds-meta\"><div><dt>Role</dt><dd>AI Product Manager Intern</dd></div><div><dt>When</dt><dd>2025</dd></div><div><dt>Where</dt><dd>GovTech</dd></div></dl>",
+      "css": ".ds-meta{font-family: var(--font-sans, Inter, system-ui, sans-serif);display:grid;grid-template-columns:1.4fr 1fr 1fr;gap:14px 24px;margin:0;padding:18px 0;border-top:1px solid var(--line,#e4e4e0);border-bottom:1px solid var(--line,#e4e4e0);font-size:0.92rem;color:var(--text,#1b1b1a);} .ds-meta dt{color:var(--faint,#6f6f6a);} .ds-meta dd{margin:2px 0 0;}"
+    },
+    {
+      "name": "Hairline List",
+      "kind": "custom",
+      "refersTo": "places-list",
+      "description": "Places and collaborators: hairline-separated rows, name 600, detail muted, date faint.",
+      "html": "<ul class=\"ds-places\"><li><p class=\"ds-places-head\"><span class=\"ds-places-city\">Singapore<span>SG</span></span><span class=\"ds-places-when\">2022 to now</span></p><p class=\"ds-places-line\">NUS Business Analytics.</p></li><li><p class=\"ds-places-head\"><span class=\"ds-places-city\">Boulder<span>US</span></span><span class=\"ds-places-when\">2024</span></p><p class=\"ds-places-line\">Exchange semester.</p></li></ul>",
+      "css": ".ds-places{font-family: var(--font-sans, Inter, system-ui, sans-serif);list-style:none;margin:0;padding:0;color:var(--text,#1b1b1a);} .ds-places li{padding:14px 0;border-bottom:1px solid var(--line,#e4e4e0);} .ds-places li:last-child{border-bottom:0;} .ds-places p{margin:0;} .ds-places-head{display:flex;justify-content:space-between;gap:16px;} .ds-places-city{font-weight:600;} .ds-places-city span{margin-left:8px;font-weight:400;color:var(--muted,#6a6a66);} .ds-places-when{flex:none;font-size:0.85rem;color:var(--faint,#6f6f6a);} .ds-places-line{margin-top:2px;font-size:0.95rem;color:var(--muted,#6a6a66);}"
+    },
+    {
+      "name": "Fill Mark",
+      "kind": "chip",
+      "refersTo": "fill-mark",
+      "description": "Dashed placeholder for unconfirmed content; the only allowed placeholder treatment.",
+      "html": "<p class=\"ds-p2\">Built with <mark class=\"ds-fill\" title=\"Placeholder — to be filled in\">teammate name</mark> over six weeks.</p>",
+      "css": ".ds-p2{font-family: var(--font-sans, Inter, system-ui, sans-serif);font-size:1rem;line-height:1.65;color:var(--text,#1b1b1a);margin:0;} .ds-fill{background:transparent;color:inherit;border:1px dashed var(--faint,#6f6f6a);border-radius:4px;padding:0 0.3em;}"
+    },
+    {
+      "name": "Pull Quote",
+      "kind": "custom",
+      "refersTo": "quote",
+      "description": "The single testimonial, hairline-topped, no marks or card.",
+      "html": "<figure class=\"ds-quote\"><blockquote>“Quote text from INTERVIEW-NOTES.md.”</blockquote><figcaption>Name, role</figcaption></figure>",
+      "css": ".ds-quote{font-family: var(--font-sans, Inter, system-ui, sans-serif);margin:0;padding-top:32px;border-top:1px solid var(--line,#e4e4e0);color:var(--text,#1b1b1a);} .ds-quote blockquote{margin:0;font-size:1.2rem;line-height:1.5;letter-spacing:-0.01em;max-width:52ch;} .ds-quote figcaption{margin-top:12px;font-size:0.92rem;color:var(--muted,#6a6a66);}"
+    }
+  ],
+  "narrative": {
+    "northStar": "The Quiet Page with Small Things on It",
+    "overview": "**Creative North Star: \"The Quiet Page with Small Things on It\"**\n\nA designer-PM personal site at the craft level of Brian Lovin or Rauno Freiberg: well-set Inter on warm-grey paper, chrome reduced to type, hairlines and one deep blue. The writing still carries the reading parts of the page.\n\nThe small things are a set of hand-drawn objects, one per story (a gaiwan, a noodle bowl, a lanyard, a napkin sketch), drawn from above in flat gouache fills with one warm-brown ink line and a shared roughening filter. They now sit on colour fields. The page opens on a still life: all of them laid by hand on a square of accent blue. The work follows as tiles, each object large on a soft field in its section's colour. The page closes on the same blue field it opened with. Each object morphs into the head of its case study, which opens on the same section colour.\n\nLight and dark follow the operating system. Dark mode is soft charcoal, not black, with deep tinted fields.",
+    "keyCharacteristics": [
+      "1120px page; reading blocks (quote, places, case study) held to 680px.",
+      "One sans family (Inter) for every page string.",
+      "Warm greys, one deep blue, and three soft section fields.",
+      "Colour fields are the only filled shapes; everything else is separated by hairlines.",
+      "Hand-drawn SVG objects as the sole illustration.",
+      "One authored moment (the still life settles on load) plus one interaction family (object lift on hover, morph into the case study)."
+    ],
+    "rules": [
+      {
+        "name": "The Blue Bookends Rule",
+        "body": "The accent marks interactivity and focus, and fills exactly two fields: the hero still life and the closing contact block. Both use the same blue with the same white dot pattern. No third blue band.",
+        "section": "colors"
+      },
+      {
+        "name": "The Section Colour Rule",
+        "body": "Field colour is assigned by work group (Working, Building, Community) and follows the story into its case study. A field never carries text; titles and lines sit on paper below it. Object palette tokens never style page UI.",
+        "section": "colors"
+      },
+      {
+        "name": "The One Family Rule",
+        "body": "Every page string is Inter. Nanum Pen Script appears only as handwriting drawn inside an SVG object.",
+        "section": "typography"
+      },
+      {
+        "name": "The Plain Heading Rule",
+        "body": "Headings are plain sentence-case Inter 600. The only additions allowed are the group's colour square and its item count. No small-caps labels, kickers, eyebrows or index numbers.",
+        "section": "typography"
+      },
+      {
+        "name": "The Wide Page, Narrow Reading Rule",
+        "body": "Grids and fields can use the full 1120px; any running prose or list stays at 680px or narrower.",
+        "section": "layout"
+      },
+      {
+        "name": "The Hairline Rule",
+        "body": "If two things need separating, use space first and a 1px `line` rule second. Never a bordered box or shadow on chrome.",
+        "section": "elevation"
+      },
+      {
+        "name": "The One Moment Rule",
+        "body": "Motion has one authored moment (the still life settling) and one interaction family (object lift with field tint or name tag, cup steam, and the morph into the case study). New surfaces reuse these and add nothing else. All of it stops under `prefers-reduced-motion`.",
+        "section": "components"
+      }
+    ],
+    "dos": [
+      "Do keep running text and lists at 680px or narrower inside the 1120px page.",
+      "Do give each new story its own hand-drawn object (flat fills, `ink` line at 2.6 / 1.6 stroke, the shared rough filter, its own palette tokens), a hand-placed spot on the still life, and a tile in its group's colour.",
+      "Do separate non-field content with whitespace and 1px `line` hairlines.",
+      "Do give every new field colour a dark-mode pair and keep `faint` at or above 4.5:1 on paper.",
+      "Do source every factual line from INTERVIEW-NOTES.md and show anything unknown through the Fill mark.",
+      "Do honour `prefers-color-scheme` and `prefers-reduced-motion` for every new token and animation."
+    ],
+    "donts": [
+      "Don't add a third blue field or use the accent for decoration beyond the two bookends.",
+      "Don't put text on a tile field, border a field, or add shadows to chrome; only the objects cast shadows.",
+      "Don't invent a fourth section colour without a new work group.",
+      "Don't introduce a second page typeface or set page text in Nanum Pen Script.",
+      "Don't add photos, stock illustration, icon-font glyphs or decorative graphics; the drawn objects are the only illustration.",
+      "Don't put kickers, eyebrows or index numbers on headings or tiles.",
+      "Don't invent placeholder copy in plain text; unconfirmed content goes through Fill only.",
+      "Don't add new motion beside the settle, the lift and the morph."
+    ]
+  }
+}
